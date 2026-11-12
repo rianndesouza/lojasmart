@@ -2,14 +2,6 @@
 
 API REST acadêmica para uma pequena loja de celulares, desenvolvida para a atividade prática de Desenvolvimento Web Back-End. Gerencia clientes, produtos e pedidos com Java 17, Spring Boot, Spring Data JPA e banco relacional H2.
 
-## Executar no Eclipse
-
-1. Instale/configure um JDK 17 e selecione-o em **Java > Installed JREs**.
-2. Baixe ou clone este repositório.
-3. Importe por **File > Import > Maven > Existing Maven Projects**, selecionando a pasta que contém `pom.xml`.
-4. Aguarde o download das dependências Maven. É necessário acesso à internet na primeira configuração.
-5. Execute `LojasmartApplication.java` como **Java Application**.
-6. Aguarde a mensagem de inicialização do Tomcat na porta 8080. Mantenha a aplicação em execução enquanto utiliza o Postman.
 
 Endereço base: `http://localhost:8080`.
 
