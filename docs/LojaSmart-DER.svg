@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1120" viewBox="0 0 1200 1120">
+<title>DER simplificado da LojaSmart</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="600" y="55" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#393939">DER simplificado da LojaSmart</text>
+<line x1="300" y1="396" x2="300" y2="690" stroke="#777777" stroke-width="2"/>
+<line x1="312.0" y1="411.0" x2="288.0" y2="411.0" stroke="#777777" stroke-width="2"/>
+<line x1="312.0" y1="421.0" x2="288.0" y2="421.0" stroke="#777777" stroke-width="2"/>
+<line x1="300.0" y1="660.0" x2="313.0" y2="690.0" stroke="#777777" stroke-width="2"/>
+<line x1="300.0" y1="660.0" x2="287.0" y2="690.0" stroke="#777777" stroke-width="2"/>
+<circle cx="300.0" cy="642.0" r="9" fill="white" stroke="#777777" stroke-width="2"/>
+<line x1="780" y1="440" x2="640" y2="722" stroke="#777777" stroke-width="2"/>
+<line x1="784.0782666152676" y1="458.77146082261027" x2="762.5816089422682" y2="448.099361268639" stroke="#777777" stroke-width="2"/>
+<line x1="779.6315584677795" y1="467.72840151969336" x2="758.1349007947802" y2="457.05630196572207" stroke="#777777" stroke-width="2"/>
+<line x1="653.3401244424642" y1="695.1291779087508" x2="651.644022906208" y2="727.7807205917345" stroke="#777777" stroke-width="2"/>
+<line x1="653.3401244424642" y1="695.1291779087508" x2="628.355977093792" y2="716.2192794082655" stroke="#777777" stroke-width="2"/>
+<circle cx="661.3441991079427" cy="679.0066846540012" r="9" fill="white" stroke="#777777" stroke-width="2"/>
+<rect x="316" y="522" width="54" height="34" fill="white" stroke="none" stroke-width="2"/>
+<text x="343" y="539" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal" fill="#393939">faz</text>
+<rect x="742" y="550" width="150" height="36" fill="white" stroke="none" stroke-width="2"/>
+<text x="817" y="568" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal" fill="#393939">vendido em</text>
+<rect x="100" y="140" width="400" height="64" fill="#eee9fc" stroke="#a78bea" stroke-width="2"/>
+<text x="300.0" y="172" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="29" font-weight="normal" fill="#393939">CLIENTE</text>
+<rect x="100" y="204" width="400" height="64" fill="white" stroke="#a78bea" stroke-width="2"/>
+<line x1="275" y1="204" x2="275" y2="268" stroke="#a78bea" stroke-width="2"/>
+<text x="118" y="236" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Long</text>
+<text x="293" y="236" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">id</text>
+<rect x="100" y="268" width="400" height="64" fill="#f4f1fc" stroke="#a78bea" stroke-width="2"/>
+<line x1="275" y1="268" x2="275" y2="332" stroke="#a78bea" stroke-width="2"/>
+<text x="118" y="300" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">String</text>
+<text x="293" y="300" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">nome</text>
+<rect x="100" y="332" width="400" height="64" fill="white" stroke="#a78bea" stroke-width="2"/>
+<line x1="275" y1="332" x2="275" y2="396" stroke="#a78bea" stroke-width="2"/>
+<text x="118" y="364" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">LocalDate</text>
+<text x="293" y="364" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">clienteDesde</text>
+<rect x="780" y="140" width="350" height="64" fill="#eee9fc" stroke="#a78bea" stroke-width="2"/>
+<text x="955.0" y="172" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="29" font-weight="normal" fill="#393939">PRODUTO</text>
+<rect x="780" y="204" width="350" height="64" fill="white" stroke="#a78bea" stroke-width="2"/>
+<line x1="955" y1="204" x2="955" y2="268" stroke="#a78bea" stroke-width="2"/>
+<text x="798" y="236" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Long</text>
+<text x="973" y="236" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">id</text>
+<rect x="780" y="268" width="350" height="64" fill="#f4f1fc" stroke="#a78bea" stroke-width="2"/>
+<line x1="955" y1="268" x2="955" y2="332" stroke="#a78bea" stroke-width="2"/>
+<text x="798" y="300" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">String</text>
+<text x="973" y="300" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">nome</text>
+<rect x="780" y="332" width="350" height="64" fill="white" stroke="#a78bea" stroke-width="2"/>
+<line x1="955" y1="332" x2="955" y2="396" stroke="#a78bea" stroke-width="2"/>
+<text x="798" y="364" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">BigDecimal</text>
+<text x="973" y="364" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">preco</text>
+<rect x="780" y="396" width="350" height="64" fill="#f4f1fc" stroke="#a78bea" stroke-width="2"/>
+<line x1="955" y1="396" x2="955" y2="460" stroke="#a78bea" stroke-width="2"/>
+<text x="798" y="428" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Boolean</text>
+<text x="973" y="428" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">estoque</text>
+<rect x="240" y="690" width="400" height="64" fill="#eee9fc" stroke="#a78bea" stroke-width="2"/>
+<text x="440.0" y="722" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="29" font-weight="normal" fill="#393939">PEDIDO</text>
+<rect x="240" y="754" width="400" height="64" fill="white" stroke="#a78bea" stroke-width="2"/>
+<line x1="390" y1="754" x2="390" y2="818" stroke="#a78bea" stroke-width="2"/>
+<text x="258" y="786" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Long</text>
+<text x="408" y="786" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">id</text>
+<rect x="240" y="818" width="400" height="64" fill="#f4f1fc" stroke="#a78bea" stroke-width="2"/>
+<line x1="390" y1="818" x2="390" y2="882" stroke="#a78bea" stroke-width="2"/>
+<text x="258" y="850" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Long</text>
+<text x="408" y="850" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">clienteId</text>
+<rect x="240" y="882" width="400" height="64" fill="white" stroke="#a78bea" stroke-width="2"/>
+<line x1="390" y1="882" x2="390" y2="946" stroke="#a78bea" stroke-width="2"/>
+<text x="258" y="914" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Long</text>
+<text x="408" y="914" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">produtoId</text>
+<rect x="240" y="946" width="400" height="64" fill="#f4f1fc" stroke="#a78bea" stroke-width="2"/>
+<line x1="390" y1="946" x2="390" y2="1010" stroke="#a78bea" stroke-width="2"/>
+<text x="258" y="978" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">Integer</text>
+<text x="408" y="978" text-anchor="start" dominant-baseline="central" font-family="Arial, sans-serif" font-size="26" font-weight="normal" fill="#393939">quantidade</text>
+</svg>

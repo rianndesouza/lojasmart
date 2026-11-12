@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="1400" viewBox="0 0 1050 1400">
+<title>Diagrama de casos de uso da API LojaSmart</title>
+<rect width="100%" height="100%" fill="white"/>
+<polyline points="315,35 1010,35 1010,1360 315,1360 315,35" fill="none" stroke="#202020" stroke-width="2"/>
+<text x="663" y="73" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="32" font-weight="bold">API LojaSmart</text>
+<polyline points="212,705 480,155" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,255" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,355" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,455" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,555" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,655" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,755" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,855" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,955" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,1055" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,1155" fill="none" stroke="#202020" stroke-width="1"/>
+<polyline points="212,705 480,1255" fill="none" stroke="#202020" stroke-width="1"/>
+<ellipse cx="150.0" cy="640.0" rx="30.0" ry="30.0" fill="white" stroke="#202020" stroke-width="3"/>
+<polyline points="150,670 150,760" fill="none" stroke="#202020" stroke-width="3"/>
+<polyline points="88,705 212,705" fill="none" stroke="#202020" stroke-width="3"/>
+<polyline points="150,760 105,820" fill="none" stroke="#202020" stroke-width="3"/>
+<polyline points="150,760 195,820" fill="none" stroke="#202020" stroke-width="3"/>
+<text x="150" y="854" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="bold">Usuário da API</text>
+<ellipse cx="715.0" cy="155.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="155" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Cadastrar cliente</text>
+<ellipse cx="715.0" cy="255.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="255" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Listar clientes</text>
+<ellipse cx="715.0" cy="355.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="355" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Consultar cliente por ID</text>
+<ellipse cx="715.0" cy="455.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="455" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Excluir cliente</text>
+<ellipse cx="715.0" cy="555.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="555" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Cadastrar produto</text>
+<ellipse cx="715.0" cy="655.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="655" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Listar produtos</text>
+<ellipse cx="715.0" cy="755.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="755" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Consultar produto por ID</text>
+<ellipse cx="715.0" cy="855.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="855" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Excluir produto</text>
+<ellipse cx="715.0" cy="955.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="955" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Cadastrar pedido</text>
+<ellipse cx="715.0" cy="1055.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="1055" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Listar pedidos</text>
+<ellipse cx="715.0" cy="1155.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="1155" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Consultar pedido por ID</text>
+<ellipse cx="715.0" cy="1255.0" rx="235.0" ry="34.0" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="715" y="1255" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="25" font-weight="normal">Excluir pedido</text>
+</svg>
