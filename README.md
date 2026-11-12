@@ -41,7 +41,7 @@ src/main/java/br/com/faculdade/lojasmart/
   controller/   Endpoints e validações
 src/main/resources/application.properties
 postman/        Coleção de testes
-docs/           Diagramas e evidência da execução
+docs/           Diagrama de casos de uso e evidência da execução
 ```
 
 ## Entidades
@@ -101,14 +101,6 @@ Em **11/11/2026**, foram executadas **25 requisições com 34 verificações apr
 
 ![Resultado dos testes](docs/Postman-testes-aprovados.png)
 
-## Diagramas
-
-### Casos de uso
+## Diagrama de casos de uso
 
 ![Diagrama de casos de uso](docs/LojaSmart-diagrama-casos-de-uso.png)
-
-### DER simplificado
-
-![DER](docs/LojaSmart-DER.png)
-
-As versões SVG estão disponíveis na pasta `docs`.
